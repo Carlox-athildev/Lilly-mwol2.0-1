@@ -1,8 +1,8 @@
 {
-    "name": "LillyMwol2.0",
-    "description": "LillyMwol2.0 is the Modified Version of WhatsAsena, Made By @Carlox & mass-ser with Baileys.",
+    "name": "Lilly-mwol2.0",
+    "description": "Lilly-mwol2.0 is the Modified Version of WhatsAsena, Made By @Carlox & mass-ser with Baileys.",
     "logo": "https://i.imgur.com/zn5wW7j.jpeg",
-    "keywords": ["whatsapp", "userbot", "carlox", "WhatsAsena", "mass-ser", "bot", "ai"],
+    "keywords": ["whatsapp", "userbot", "carlox", "WhatsAsena", "Mass-ser", "bot", "ai"],
     "repository": "https://github.com/Carlox-ser-mass-ser/Lilly2.0",
     "website":   "https://github.com/Carlox-ser-mass-ser/Lilly2.0",
     "success_url": "https://github.com/Carlox-ser-mass-ser/Lilly2.0",
@@ -164,7 +164,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n╭──────────────────\n│〄 ʜᴇʏ ᴜѕᴇʀ ___________ 〄 \n│〄 ʙᴏᴛ ɴᴀᴍᴇ : LillyMwol2.0 \n│〄 ᴅᴇᴠᴇʟᴏᴘᴇʀ : ₢Carlox & mass-ser\n│〄 ᴠᴇʀѕɪᴏɴ       : 𝟹.𝟶.𝟶\n│〄 ʟᴀɴɢᴜᴀɢᴇ   : ᴇɴɢʟɪѕʜ \n│〄 ᴡᴏʀᴋ ᴛʏᴘᴇ  : ᴘᴜʙʟɪᴄ\n│〄 ᴀɪ ʙᴏᴛ          : @ᴡʜᴛsᴀᴘᴘ\n│          \n│  \n│     \n│    \n│      ᴄʀᴇᴀᴛᴇᴅ  ʙʏ  Carlox & mass-sᴇʀ\n╰───────────────────\n╭───────────────────\n│Hey 💬 help message type \n│.menu .help .list 💬\n│👾──────👾──────👾\n╰───────────────────"
+            "value": "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n╭──────────────────\n│〄 ʜᴇʏ ᴜѕᴇʀ ___________ 〄 \n│〄 ʙᴏᴛ ɴᴀᴍᴇ : Lilly-mwol2.0 \n│〄 ᴅᴇᴠᴇʟᴏᴘᴇʀ : ₢Carlox & mass-ser\n│〄 ᴠᴇʀѕɪᴏɴ       : 𝟹.𝟶.𝟶\n│〄 ʟᴀɴɢᴜᴀɢᴇ   : ᴇɴɢʟɪѕʜ \n│〄 ᴡᴏʀᴋ ᴛʏᴘᴇ  : ᴘᴜʙʟɪᴄ\n│〄 ᴀɪ ʙᴏᴛ          : @ᴡʜᴛsᴀᴘᴘ\n│          \n│  \n│     \n│    \n│      ᴄʀᴇᴀᴛᴇᴅ  ʙʏ  Carlox & mass-sᴇʀ\n╰───────────────────\n╭───────────────────\n│Hey 💬 help message type \n│.menu .help .list 💬\n│👾──────👾──────👾\n╰───────────────────"
         },
         "ALIVEBUTTON": {
             "description": "Set the alive message two name",
@@ -184,7 +184,7 @@
         "LOGO_NAME": {
             "description": "Set the logo list name",
             "required": true,
-            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤ LillyMwol2.0࿐"
+            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤ Lilly-mwol2.0࿐"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -194,12 +194,12 @@
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
             "required": true,
-            "value": "✮⃝🎸LillyMwol2.0 sᴇʀ ᴅᴏᴡɴʟᴏᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ✮⃝🎧"
+            "value": "✮⃝🎸Lilly-mwol2.0 sᴇʀ ᴅᴏᴡɴʟᴏᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ✮⃝🎧"
         },
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
             "required": true,
-            "value": "✮⃝🎸LillyMwol2.0 ᴜᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ✮⃝🎧"
+            "value": "✮⃝🎸Lilly-mwol2.0 ᴜᴘʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ sᴏɴɢ✮⃝🎧"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
